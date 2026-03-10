@@ -1,0 +1,3 @@
+[build]
+  command = "npm install --omit=optional && npm run build"
+  publish = "dist"  # অথবা তোমার ফাইনাল ফোল্ডার

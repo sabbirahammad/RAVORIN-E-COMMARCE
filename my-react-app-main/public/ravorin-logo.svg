@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" role="img" aria-label="Ravorin logo">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3ec7f5" />
+      <stop offset="100%" stop-color="#1aa6da" />
+    </linearGradient>
+  </defs>
+  <rect width="240" height="240" rx="36" fill="#1f2937" />
+  <path d="M70 52h48c33 0 58 18 58 47 0 23-15 38-38 44l33 45h-34l-28-40h-7v40H70V52zm32 27v43h16c16 0 27-8 27-22s-11-21-27-21h-16z" fill="url(#g)" />
+  <text x="120" y="220" text-anchor="middle" font-size="28" fill="#e5f9ff" font-family="Arial, sans-serif">Ravorin</text>
+</svg>
+
